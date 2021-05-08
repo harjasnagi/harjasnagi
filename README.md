@@ -4,8 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasnagi&show_icons=true&theme=nightowl)
 
-![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/harjasnagi/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/harjasnagi/github-stats/blob/master/generated/languages.svg)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harjasnagi.visitor-badge)
 <!--
