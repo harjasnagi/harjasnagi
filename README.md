@@ -6,6 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=harjasnagi.harjasnagi)
 <!--
 **harjasnagi/harjasnagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
