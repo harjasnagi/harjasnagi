@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World.;Welcome+to+my+github+profile.;Try+googling+harjasnagi.)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasnagi&show_icons=true&theme=nightowl)
 
-![]https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi&theme=blue-green
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi&theme=blue-green)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=harjasnagi.visitor-badge)
 
