@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasnagi&show_icons=true&theme=nightowl)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harjasnagi&show_icons=true&theme=nightowl)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harjasnagi&layout=compact)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=harjasnagi.harjasnagi)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=harjasnagi.visitor-badge)
 <!--
 **harjasnagi/harjasnagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
