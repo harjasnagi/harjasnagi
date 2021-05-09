@@ -4,7 +4,7 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=harjasnagi&show_icons=true)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=harjasnagi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)(https://harjasnagi.ml)
+[[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=harjasnagi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)](https://harjasnagi.ml)
 
 <!--
 **harjasnagi/harjasnagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
